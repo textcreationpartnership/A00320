@@ -36,11 +36,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Bellum Erasmi· Translated into englysheAdagia. Chil. IV Cent. I. EnglishErasmus, Desiderius, d. 1536
+
 #####Body#####
-Bellum Erasmi· Translated into englysheAdagia. Chil. IV Cent. I. EnglishErasmus, Desiderius, d. 1536
+
+1. Dulce bellum inexpertis.
+
 #####Back#####
-Bellum Erasmi· Translated into englysheAdagia. Chil. IV Cent. I. EnglishErasmus, Desiderius, d. 1536
+☞Thomas Berthelet regius impressor excudebat. An. 1534.CVM PRIVILEGIO.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
